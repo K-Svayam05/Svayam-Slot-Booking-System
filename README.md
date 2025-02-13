@@ -1,3 +1,95 @@
+# 📅 Svayam Slot Booking System
+
+## 🌟 Overview
+The **Svayam Slot Booking System** is a user-friendly web application designed for effortless slot management. Users can configure their availability, view available slots, and book appointments seamlessly. The application ensures an intuitive experience with timezone support, dynamic updates, and a responsive design.
+
+---
+
+## 🎯 Features
+
+### ✅ Core Features
+- **Slot Management**
+  - View available slots for other users.
+  - Create, update, or delete your availability for different days.
+  - Change and manage timezones.
+  - Copy availability for specific days.
+
+- **📊 Dashboard**
+  - Displays available slots in an intuitive UI.
+  - Minimal user profile section for easy navigation.
+
+- **📱 Responsive UI**
+  - Seamless experience across **mobile** and **desktop**.
+  - Follows accessible design principles for better usability.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js ⚛️  
+- **Styling:** Tailwind CSS 🎨  
+- **Deployment:** Vercel / Netlify 🚀  
+
+---
+
+## 💡 Bonus Features
+- 📆 **Calendar View** – Easily select and book slots visually.  
+- 🎭 **Animated Transitions** – Smooth UI interactions.  
+
+---
+
+## 🚀 Installation & Setup
+
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/K-Svayam05/Svayam-Slot-Booking-System.git
+cd Svayam-Slot-Booking-System
+2️⃣ Install Dependencies
+sh
+Copy
+Edit
+npm install
+3️⃣ Run the Application
+sh
+Copy
+Edit
+npm start
+4️⃣ Deploy on Vercel / Netlify
+To deploy on Vercel, run:
+sh
+Copy
+Edit
+vercel
+To deploy on Netlify, run:
+sh
+Copy
+Edit
+netlify deploy
+📸 Screenshots
+Coming soon... 🚀
+
+🤝 Contributing
+Feel free to fork this repository, create a new branch, and submit a pull request. Let's build something amazing together! 🎉
+
+📜 License
+This project is open-source and free to use under the MIT License.
+
+📬 Contact
+For any queries, feel free to reach out:
+📌 GitHub: K-Svayam05
+
+perl
+Copy
+Edit
+
+### 📌 Steps to Add This to GitHub:
+1. Open your terminal and navigate to your project folder.
+2. Create or open the `README.md` file:
+   ```sh
+   nano README.md
+
+
+
+
 <<<<<<< HEAD
 <!-- DO NOT REMOVE EXISTING CONTENTS OF THIS FILE, EVEN IN YOUR REPOSITORY -->
 # Frontend assignment repository template
